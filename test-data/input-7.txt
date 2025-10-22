@@ -1,2 +1,0 @@
-gt4500,0,0,1,0
-Torpedo,single
